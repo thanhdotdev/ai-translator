@@ -1,0 +1,40 @@
+{
+  "entries": [
+    {
+      "sounds": [
+        {
+          "tags": [
+            "Received-Pronunciation"
+          ],
+          "ipa": "/ˈstændəd/"
+        },
+        {
+          "tags": [
+            "General-American"
+          ],
+          "note": "without æ-raising",
+          "ipa": "/ˈstændɚd/"
+        },
+        {
+          "note": "æ-raising",
+          "ipa": "/ˈsteə̯ndɚd/"
+        },
+        {
+          "note": "æ-raising",
+          "ipa": "/ˈstɛə̯ndɚd/"
+        },
+        {
+          "audio": "En-us-standard.ogg",
+          "tags": [
+            "US"
+          ],
+          "ogg_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/En-us-standard.ogg",
+          "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/26/En-us-standard.ogg/En-us-standard.ogg.mp3"
+        },
+        {
+          "rhymes": "-ə(ɹ)d"
+        }
+      ]
+    }
+  ]
+}
